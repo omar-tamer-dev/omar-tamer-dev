@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
 </p>
 
-<p align="center">Based in Alexandria, Egypt. I build web apps with JavaScript and TypeScript.</p>
+<p align="center">I build web apps with JavaScript and TypeScript.</p>
 
 ## 🛠️ My Skills
 
