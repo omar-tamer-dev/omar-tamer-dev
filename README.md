@@ -4,23 +4,37 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
 </p>
 
-<p align="center">I build web apps with JavaScript and TypeScript.</p>
+<p align="center">Based in Alexandria, Egypt. I build web apps with JavaScript and TypeScript.</p>
 
-## Skills
+## 🛠️ My Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,mysql,mongodb,html,css,bootstrap,git,github,postman" />
+### Technical
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,nodejs,express" />
+</p>
 
-## Stats
+### Softwares and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+### Familiar
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,mysql,mongodb" />
+</p>
 
-## My Projects
+## 📊 GitHub Stats
 
-<a href="https://github.com/USERNAME/Saraha-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/https://github.com/omar-tamer-dev/Saraha-Apppp&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=omar-tamer-dev&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-tamer-dev&layout=compact&theme=tokyonight" />
+
+## 🚀 My Latest Project
+
+<a href="https://github.com/omar-tamer-dev/Saraha-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar-tamer-dev&repo=Saraha-App&theme=tokyonight" />
 </a>
-## Currently
+
+## 📫 Currently
 
 Looking for a junior or internship role where I can work on real projects and learn from a team.
 <!--
