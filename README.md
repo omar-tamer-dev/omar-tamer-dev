@@ -9,8 +9,7 @@ Full Stack Web Developer from Alexandria, Egypt. I work with JavaScript and Type
 - **Tools:** Git, GitHub, Postman
 
 ## Projects
-- **saraha-app2:** anonymous messaging backend with Node.js and Express
-- **social_app_Sunday:** social app backend with TypeScript and Express
+- **Saraha-App:** anonymous messaging backend with Node.js and Express
 
 ## Currently
 Looking for a junior or internship role where I can work on real projects and learn from a team.
