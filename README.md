@@ -10,7 +10,7 @@
 
 ### Technical
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,expresshtml,html,css,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,bootstrap" />
 </p>
 
 ### Softwares and Tools
