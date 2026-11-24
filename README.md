@@ -20,7 +20,7 @@
 
 ### Softwares and Tools
 <p>
-  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=git, github, vscode, postman" />
+  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### Familiar
