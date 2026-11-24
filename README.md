@@ -1,19 +1,32 @@
-# Hi, I'm Omar Tamer 👋
+<h1 align="center">Hi, I'm Omar Tamer 👋</h1>
 
-Full Stack Web Developer from Alexandria, Egypt. I work with JavaScript and TypeScript on both the frontend and the backend.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
+</p>
 
-## Tech Stack
-- **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express.js, NestJS, REST APIs
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, Postman
+<p align="center">Based in Alexandria, Egypt. I build web apps with JavaScript and TypeScript.</p>
 
-## Projects
-- **Saraha-App:** anonymous messaging backend with Node.js and Express
+## Skills
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,mysql,mongodb,html,css,bootstrap,git,github,postman" />
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+
+## My Projects
+
+<a href="https://github.com/USERNAME/saraha-app2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=saraha-app2&theme=tokyonight" />
+</a>
+<a href="https://github.com/USERNAME/social_app_Sunday">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=social_app_Sunday&theme=tokyonight" />
+</a>
 
 ## Currently
-Looking for a junior or internship role where I can work on real projects and learn from a team.
 
+Looking for a junior or internship role where I can work on real projects and learn from a team.
 <!--
 **omar-tamer-dev/omar-tamer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
