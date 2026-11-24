@@ -20,7 +20,7 @@
 
 ### Softwares and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,claude" />
 </p>
 
 ### Familiar
