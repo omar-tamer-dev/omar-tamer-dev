@@ -10,7 +10,7 @@
 
 ### Technical
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,,nodejs,express,nestjs,react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,html,css,bootstrap" />
 </p>
 
 ### Database
