@@ -20,8 +20,7 @@
 
 ### Softwares and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=git,github,vscode,postman,claude" />
 </p>
 
 ### Familiar
