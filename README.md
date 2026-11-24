@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Omar Tamer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Js+Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
 </p>
 
-<p align="center">I build web apps with JavaScript and TypeScript.</p>
+<p align="center">Full stack js web developer.</p>
 
 ## 🛠️ My Skills
 
 ### Technical
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,expresshtml,css,bootstrap" />
 </p>
 
 ### Softwares and Tools
