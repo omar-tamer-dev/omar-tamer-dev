@@ -1,16 +1,21 @@
 <h1 align="center">Hi, I'm Omar Tamer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Js+Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
 </p>
 
-<p align="center">Full stack js web developer.</p>
+<p align="center">JavaScript Full Stack Web Developer building web applications from A to Z.</p>
 
 ## 🛠️ My Skills
 
 ### Technical
 <p>
- <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,,nodejs,express,nestjs,react,html,css,bootstrap" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Softwares and Tools
@@ -20,7 +25,7 @@
 
 ### Familiar
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws,wordpress,figma,tailwind" />
 </p>
 
 ## 📊 GitHub Stats
