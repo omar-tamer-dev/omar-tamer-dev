@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=F7468E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS" />
 </p>
 
-<p align="center">Based in Alexandria, Egypt. I build web apps with JavaScript and TypeScript.</p>
+<p align="center">I build web apps with JavaScript and TypeScript.</p>
 
 ## Skills
 
@@ -17,13 +17,9 @@
 
 ## My Projects
 
-<a href="https://github.com/USERNAME/saraha-app2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=saraha-app2&theme=tokyonight" />
+<a href="https://github.com/USERNAME/Saraha-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/https://github.com/omar-tamer-dev/Saraha-Apppp&theme=tokyonight" />
 </a>
-<a href="https://github.com/USERNAME/social_app_Sunday">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=social_app_Sunday&theme=tokyonight" />
-</a>
-
 ## Currently
 
 Looking for a junior or internship role where I can work on real projects and learn from a team.
